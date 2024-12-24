@@ -2,7 +2,7 @@
 - 👀 I’m interested in Andorid Development and Backend Development
 - 🌱 I’m currently learning Kotlin and DSA
 - 💞️ I’m looking to collaborate on Real World Projects
-- 📫 How to reach me Through LinkedIn
+- 📫 Reach me Through LinkedIn
 
 
 <!---
